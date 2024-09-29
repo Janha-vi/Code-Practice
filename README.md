@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Janha-vi/Code-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Janha-vi/Code-Practice/tree/master/0027-remove-element) |
 | [0347-top-k-frequent-elements](https://github.com/Janha-vi/Code-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Janha-vi/Code-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Janha-vi/Code-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Janha-vi/Code-Practice/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Janha-vi/Code-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
