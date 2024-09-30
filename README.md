@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Janha-vi/Code-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Janha-vi/Code-Practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Janha-vi/Code-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
