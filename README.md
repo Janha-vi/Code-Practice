@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janha-vi/Code-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Janha-vi/Code-Practice/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
